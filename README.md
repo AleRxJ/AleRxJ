@@ -1,6 +1,7 @@
-<h2 align="center">I'm Alejo</h2>
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&size=35&center=true&vCenter=true&width=500&height=70&lines=Hi+there!%F0%9F%91%8B;+I'm+Alejo" />
+</h1>
 
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
